@@ -1,8 +1,8 @@
 ## Details
 This repository serves as the home for two of my webdev projects: my personal website and a website for my family's landscaping business. You can find these sites online at the following addresses:
 
-laurakoemmpel.com
-laurakoemmpel.com/sklandscaping
+- [laurakoemmpel.com](laurakoemmpel.com)
+- [laurakoemmpel.com/sklandscaping](laurakoemmpel.com/sklandscaping)
 
 ## Preview
 
